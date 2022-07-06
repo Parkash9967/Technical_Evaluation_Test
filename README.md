@@ -1,5 +1,3 @@
-# Technical_Evaluation_Test
-
 # I have imported shelve module for data storage
 
 # Here is the process of running this project
